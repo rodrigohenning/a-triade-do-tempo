@@ -1,0 +1,37 @@
+{
+  "name": "a-triade-do-tempo",
+  "version": "1.0.0",
+  "description": "Aplicação web interativa para descobrir sua Tríade do Tempo baseado no método de Christian Barbosa",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000",
+    "open": "start http://localhost:8000"
+  },
+  "keywords": [
+    "triade-do-tempo",
+    "christian-barbosa",
+    "produtividade",
+    "gestão-do-tempo",
+    "questionário"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/a-triade-do-tempo"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/a-triade-do-tempo/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/a-triade-do-tempo#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
