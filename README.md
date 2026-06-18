@@ -43,7 +43,7 @@ a-triade-do-tempo/
 └── README.md        # Este arquivo
 ```
 
-## 🎓 A Tríade do Tempo
+##  A Tríade do Tempo
 
 O método de Christian Barbosa classifica as atividades em três categorias:
 
@@ -102,7 +102,7 @@ Atividades que consomem tempo mas agregam pouco valor aos objetivos.
 --color-light: #f5f5f5;          /* Cinza Claro */
 ```
 
-## 📱 Compatibilidade
+##  Compatibilidade
 
 - ✅ Chrome/Edge (v90+)
 - ✅ Firefox (v88+)
@@ -139,7 +139,7 @@ const categoryB = [3, 6, 9, 10, 13, 16];
 const categoryC = [1, 4, 7, 12, 15, 17];
 ```
 
-## 📝 Perguntas do Questionário
+##  Perguntas do Questionário
 
 1. Costumo ir a eventos, festas ou cursos, mesmo sem ter muita vontade, para agradar ao chefe, aos amigos ou à família.
 2. Não consigo realizar tudo o que me propus a fazer no dia e preciso cumprir hora extra ou levar trabalho para casa.
@@ -160,7 +160,7 @@ const categoryC = [1, 4, 7, 12, 15, 17];
 17. Faço exercícios com regularidade, alimento-me adequadamente e desfruto horas suficientes de lazer.
 18. É comum reduzir meu horário de almoço ou comer enquanto trabalho.
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 Sinta-se livre para:
 - Reportar bugs
@@ -168,15 +168,15 @@ Sinta-se livre para:
 - Fazer fork e customizar
 - Compartilhar o projeto
 
-## 📄 Licença
+##  Licença
 
 Este projeto é de código aberto e pode ser usado livremente.
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido como aplicação web interativa baseada no método de Christian Barbosa.
 
-## 📚 Referências
+##  Referências
 
 - [Christian Barbosa - Tríade do Tempo](https://www.christianbarbosa.com.br/)
 - [Bootstrap Documentation](https://getbootstrap.com/)
