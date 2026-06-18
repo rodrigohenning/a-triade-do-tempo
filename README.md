@@ -2,19 +2,19 @@
 
 Uma aplicação web interativa para descobrir seu perfil na Tríade do Tempo, baseado no método de Christian Barbosa.
 
-## 🎯 Objetivo
+## Objetivo
 
 Permitir que qualquer usuário responda um questionário com 18 perguntas e receba automaticamente o resultado da sua Tríade do Tempo, identificando como utiliza seu tempo e qual é seu perfil predominante.
 
-## 🚀 Características
+## Características
 
-✨ **Design Moderno**
+ **Design Moderno**
 - Interface limpa e profissional
 - Design responsivo (desktop e celular)
 - Cores corporativas: azul escuro, branco e laranja
 - Animações suaves e transições modernas
 
-📊 **Funcionalidades Principais**
+ **Funcionalidades Principais**
 - Questionário de 18 perguntas com escala de 1-5
 - Barra de progresso em tempo real
 - Cálculo automático de resultados
@@ -23,7 +23,7 @@ Permitir que qualquer usuário responda um questionário com 18 perguntas e rece
 - Compartilhamento de resultados
 - Download do resultado em PDF
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização avançada com CSS Grid e Flexbox
@@ -33,7 +33,7 @@ Permitir que qualquer usuário responda um questionário com 18 perguntas e rece
 - **html2pdf.js** - Geração de PDF
 - **Bootstrap Icons** - Ícones da interface
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 a-triade-do-tempo/
@@ -43,23 +43,23 @@ a-triade-do-tempo/
 └── README.md        # Este arquivo
 ```
 
-## 🎓 A Tríade do Tempo
+##  A Tríade do Tempo
 
 O método de Christian Barbosa classifica as atividades em três categorias:
 
-### 1️⃣ **Importante** (Conjunto B)
+### 1️ **Importante** (Conjunto B)
 Atividades que geram resultados reais, qualidade de vida e realização pessoal.
 - Perguntas: 4, 7, 10, 11, 14, 17
 
-### 2️⃣ **Urgente** (Conjunto C)
+### 2️ **Urgente** (Conjunto C)
 Atividades que demandam ação imediata e trabalho sob pressão.
 - Perguntas: 2, 5, 8, 13, 16, 18
 
-### 3️⃣ **Circunstancial** (Conjunto A)
+### 3️ **Circunstancial** (Conjunto A)
 Atividades que consomem tempo mas agregam pouco valor aos objetivos.
 - Perguntas: 1, 3, 6, 9, 12, 15
 
-## 📊 Como Funciona o Cálculo
+##  Como Funciona o Cálculo
 
 1. **Coleta de Respostas**: Usuário responde 18 perguntas em escala de 1 a 5
 2. **Agrupamento**: Respostas são organizadas por categoria
@@ -70,7 +70,7 @@ Atividades que consomem tempo mas agregam pouco valor aos objetivos.
    - Circunstancial = (Total Conjunto A / Total Geral) × 100
 5. **Identificação**: Determina o perfil predominante
 
-## 🎮 Como Usar
+##  Como Usar
 
 ### Localmente
 1. Clone ou baixe o repositório
@@ -82,7 +82,7 @@ Atividades que consomem tempo mas agregam pouco valor aos objetivos.
 1. Habilite GitHub Pages no repositório
 2. Acesse: `https://seu-usuario.github.io/a-triade-do-tempo`
 
-## ✨ Recursos Adicionais
+##  Recursos Adicionais
 
 - ✅ Botão "Reiniciar Avaliação" - Recomeça o questionário
 - ✅ Botão "Compartilhar" - Compartilha resultado (Clipboard/API Share)
@@ -91,7 +91,7 @@ Atividades que consomem tempo mas agregam pouco valor aos objetivos.
 - ✅ Código Comentado - Fácil de manter e customizar
 - ✅ Sem Backend - Roda 100% no cliente
 
-## 🎨 Paleta de Cores
+##  Paleta de Cores
 
 ```css
 --color-primary: #0d47a1;        /* Azul Escuro */
@@ -102,7 +102,7 @@ Atividades que consomem tempo mas agregam pouco valor aos objetivos.
 --color-light: #f5f5f5;          /* Cinza Claro */
 ```
 
-## 📱 Compatibilidade
+##  Compatibilidade
 
 - ✅ Chrome/Edge (v90+)
 - ✅ Firefox (v88+)
@@ -139,7 +139,7 @@ const categoryB = [3, 6, 9, 10, 13, 16];
 const categoryC = [1, 4, 7, 12, 15, 17];
 ```
 
-## 📝 Perguntas do Questionário
+##  Perguntas do Questionário
 
 1. Costumo ir a eventos, festas ou cursos, mesmo sem ter muita vontade, para agradar ao chefe, aos amigos ou à família.
 2. Não consigo realizar tudo o que me propus a fazer no dia e preciso cumprir hora extra ou levar trabalho para casa.
@@ -160,7 +160,7 @@ const categoryC = [1, 4, 7, 12, 15, 17];
 17. Faço exercícios com regularidade, alimento-me adequadamente e desfruto horas suficientes de lazer.
 18. É comum reduzir meu horário de almoço ou comer enquanto trabalho.
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 Sinta-se livre para:
 - Reportar bugs
@@ -168,15 +168,15 @@ Sinta-se livre para:
 - Fazer fork e customizar
 - Compartilhar o projeto
 
-## 📄 Licença
+##  Licença
 
 Este projeto é de código aberto e pode ser usado livremente.
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido como aplicação web interativa baseada no método de Christian Barbosa.
 
-## 📚 Referências
+##  Referências
 
 - [Christian Barbosa - Tríade do Tempo](https://www.christianbarbosa.com.br/)
 - [Bootstrap Documentation](https://getbootstrap.com/)
